@@ -14,11 +14,11 @@ span {
     font-weight: 900;
     font-size: 2.5rem;
     line-height: normal;
-    font-style: normal;
+    font-style: normal;    
 }
 
 .to {
-    color: var(--blue);
+    color: var(--blue); 
 }
 
 .do {
